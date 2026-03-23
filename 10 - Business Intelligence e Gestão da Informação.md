@@ -1,4 +1,4 @@
-# 10 - Business Intelligence e Gestão da Informação
+# 📁 10 - Business Intelligence e Gestão da Informação
 
 ## 📌 Conceito de Business Intelligence (BI)
 
@@ -98,6 +98,82 @@ O BI está associado a tecnologias como:
 
 ---
 
+## 📌 Big Data (Aprofundado)
+
+Big Data refere-se ao processamento de grandes volumes de dados que não podem ser tratados por ferramentas tradicionais.
+
+### Características (5Vs):
+
+- Volume → grande quantidade de dados  
+- Velocidade → geração rápida  
+- Variedade → diferentes formatos  
+- Veracidade → qualidade dos dados  
+- Valor → utilidade da informação  
+
+### Aplicações no BI:
+
+- análise preditiva  
+- identificação de padrões  
+- suporte à tomada de decisão em tempo real  
+
+---
+
+## 📌 Inteligência Artificial na Gestão
+
+A Inteligência Artificial (IA) amplia o BI ao permitir análises mais sofisticadas.
+
+### Aplicações:
+
+- previsão de demanda  
+- análise de comportamento de clientes  
+- automação de decisões  
+- detecção de fraudes  
+
+### Benefícios:
+
+- decisões mais rápidas  
+- maior precisão analítica  
+- redução de erros humanos  
+
+---
+
+## 📌 Internet das Coisas (IoT)
+
+A IoT refere-se à conexão de dispositivos físicos à internet, permitindo coleta de dados em tempo real.
+
+### Exemplos:
+
+- sensores industriais  
+- dispositivos inteligentes  
+- sistemas de monitoramento  
+
+### Relação com BI:
+
+- geração contínua de dados  
+- monitoramento em tempo real  
+- apoio à tomada de decisão operacional  
+
+---
+
+## 📌 Indústria 4.0
+
+A Indústria 4.0 representa a integração de tecnologias digitais na produção industrial.
+
+### Características:
+
+- automação inteligente  
+- sistemas ciberfísicos  
+- integração de dados  
+- produção conectada  
+
+### Relação com BI:
+
+- uso intensivo de dados  
+- análise em tempo real  
+- otimização de processos  
+
+---
+
 ## 📌 Benefícios do BI
 
 - Melhor qualidade das decisões  
@@ -116,6 +192,27 @@ O BI está associado a tecnologias como:
 
 ---
 
+## 📌 Sociedade 5.0
+
+A Sociedade 5.0 é um conceito que integra tecnologia e sociedade, colocando o ser humano no centro da inovação.
+
+### Características:
+
+- uso avançado de tecnologia  
+- integração entre mundo físico e digital  
+- foco no bem-estar social  
+- decisões baseadas em dados  
+
+### Relação com BI:
+
+- uso intensivo de dados para políticas e decisões  
+- integração com IA, IoT e Big Data  
+- apoio à resolução de problemas sociais  
+
+---
+
 ## 📌 Conclusão
 
 O Business Intelligence e a gestão da informação são fundamentais para organizações modernas, permitindo transformar dados em conhecimento e apoiar decisões estratégicas com maior eficiência e segurança.
+
+Além disso, tecnologias emergentes como Big Data, IA, IoT, Indústria 4.0 e Sociedade 5.0 ampliam o papel do BI, tornando-o ainda mais essencial para inovação e competitividade.

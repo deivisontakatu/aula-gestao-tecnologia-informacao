@@ -1,4 +1,4 @@
-# Chapter 2 — SOX and COBIT Defined
+# 📁 06 - SOX e COBIT
 
 ## Objetivos da Aula
 
@@ -17,428 +17,230 @@ Ao final desta aula, o estudante deverá ser capaz de:
 
 ## Contexto Histórico
 
-A **Sarbanes–Oxley Act (SOX)** foi criada nos Estados Unidos em **2002** após grandes escândalos corporativos que abalaram a confiança do mercado financeiro. Entre os principais casos estavam:
+A **Sarbanes–Oxley Act (SOX)** foi criada nos Estados Unidos em **2002** após grandes escândalos corporativos que abalaram a confiança do mercado financeiro.
 
-- Enron
-- WorldCom
-- Tyco
-- Arthur Andersen
+Exemplos:
 
-Esses casos envolveram **fraudes contábeis, manipulação de resultados financeiros e falhas graves de auditoria**.
+- Enron  
+- WorldCom  
+- Tyco  
+- Arthur Andersen  
 
-A SOX foi criada para:
-
-- Proteger investidores
-- Garantir maior transparência financeira
-- Fortalecer controles internos
-- Responsabilizar executivos pelas informações divulgadas
+Esses casos envolveram fraudes contábeis e falhas graves de auditoria.
 
 ---
 
-## Principais Objetivos da SOX
+## Objetivos da SOX
 
-A lei tem como foco principal garantir:
-
-- **Transparência financeira**
-- **Responsabilização da alta administração**
-- **Fortalecimento da governança corporativa**
-- **Auditorias independentes**
-- **Controles internos eficientes**
+- Transparência financeira  
+- Responsabilização executiva  
+- Fortalecimento de controles internos  
+- Auditorias independentes  
 
 ---
 
-## Seções Importantes da SOX
+## Seções importantes
 
-### Section 302 — Responsabilidade dos Executivos
+### Section 302
 
-Executivos (CEO e CFO) devem certificar que:
+Responsabiliza CEO e CFO pelos relatórios financeiros.
 
-- Os relatórios financeiros são precisos
-- Os controles internos são adequados
-- Não há omissão de informações relevantes
+### Section 404
 
----
+Exige:
 
-### Section 404 — Avaliação de Controles Internos
-
-Esta é a seção mais importante para **TI e governança**.
-
-Ela exige que as empresas:
-
-- Avaliem seus **controles internos sobre relatórios financeiros**
-- Documentem processos
-- Realizem auditorias periódicas
-- Demonstrem eficácia dos controles
+- Avaliação de controles internos  
+- Documentação  
+- Auditoria  
+- Evidência de eficácia  
 
 ---
 
-## Impacto da SOX na Tecnologia da Informação
+## Impacto na TI
 
-A área de TI passou a ter papel fundamental na conformidade da lei, pois:
+A TI tornou-se essencial para:
 
-- Sistemas armazenam dados financeiros
-- Processos são automatizados
-- Informações são processadas digitalmente
-
-Assim, surgem necessidades de:
-
-- Controle de acesso
-- Auditoria de sistemas
-- Gestão de mudanças
-- Integridade dos dados
+- controle de acesso  
+- integridade de dados  
+- auditoria de sistemas  
+- gestão de mudanças  
 
 ---
 
-# Section 2.2 — Why IT COBIT?
+# Section 2.2 — LGPD e Compliance Moderno
 
-## O Problema da Governança de TI
+## O que é LGPD
 
-Com a crescente dependência da tecnologia, as empresas começaram a enfrentar desafios como:
+A **Lei Geral de Proteção de Dados (LGPD)** é a legislação brasileira que regula o tratamento de dados pessoais.
 
-- Falta de padronização de processos de TI
-- Baixa visibilidade sobre riscos tecnológicos
-- Dificuldade de auditoria
-- Falta de alinhamento entre TI e negócio
+Seu objetivo é:
 
-Era necessário um **framework estruturado de governança de TI**.
-
----
-
-## O que é COBIT?
-
-**COBIT (Control Objectives for Information and Related Technologies)** é um framework desenvolvido pela **ISACA** para:
-
-- Governança de TI
-- Gestão de riscos
-- Controles internos
-- Auditoria de sistemas
+- proteger a privacidade  
+- garantir direitos dos titulares de dados  
+- aumentar a transparência  
 
 ---
 
-## Objetivos do COBIT
+## Princípios da LGPD
 
-O COBIT busca garantir que a TI:
-
-- Gere valor para o negócio
-- Gerencie riscos adequadamente
-- Utilize recursos de forma eficiente
-- Atenda às exigências regulatórias
+- finalidade  
+- necessidade  
+- transparência  
+- segurança  
+- responsabilização  
 
 ---
 
-## Domínios do COBIT (estrutura clássica)
+## Relação com Governança de TI
 
-O COBIT organiza processos de TI em **4 grandes domínios**.
+A LGPD exige forte atuação da governança de TI para:
+
+- controle de acesso a dados  
+- rastreabilidade de informações  
+- gestão de incidentes de segurança  
+- proteção de dados pessoais  
+
+---
+
+## Compliance moderno
+
+O conceito de compliance evoluiu e hoje inclui:
+
+- leis financeiras (SOX)  
+- proteção de dados (LGPD)  
+- segurança da informação  
+- governança corporativa  
+
+---
+
+## Integração entre SOX, LGPD e COBIT
+
+- **SOX → foco financeiro**
+- **LGPD → foco em dados pessoais**
+- **COBIT → estrutura de governança**
+
+O COBIT ajuda a implementar controles que atendem ambas as legislações.
+
+---
+
+## Importância para as organizações
+
+- redução de riscos legais  
+- aumento da confiança do mercado  
+- melhoria da gestão de dados  
+- fortalecimento da governança  
+
+---
+
+# Section 2.3 — Why IT COBIT?
+
+## O que é COBIT
+
+Framework de governança de TI criado pela ISACA.
+
+Objetivos:
+
+- gerar valor  
+- gerenciar riscos  
+- garantir conformidade  
+- otimizar recursos  
+
+---
+
+## Domínios do COBIT
 
 ### 1 — Plan and Organize (PO)
 
-Define estratégia e planejamento de TI.
-
-Exemplos:
-
-- Planejamento estratégico de TI
-- Arquitetura da informação
-- Gestão de investimentos de TI
-
----
+Planejamento estratégico.
 
 ### 2 — Acquire and Implement (AI)
 
-Relaciona-se ao desenvolvimento e implementação de soluções.
-
-Exemplos:
-
-- Desenvolvimento de software
-- Aquisição de sistemas
-- Gestão de mudanças
-
----
+Desenvolvimento e implementação.
 
 ### 3 — Deliver and Support (DS)
 
-Relaciona-se à operação de serviços de TI.
-
-Exemplos:
-
-- Suporte técnico
-- Segurança da informação
-- Continuidade de serviços
-
----
+Operação e suporte.
 
 ### 4 — Monitor and Evaluate (ME)
 
-Relaciona-se ao controle e avaliação da TI.
-
-Exemplos:
-
-- Auditoria de TI
-- Avaliação de desempenho
-- Conformidade regulatória
+Controle e auditoria.
 
 ---
 
-# Section 2.3 — Are the Developers of COBIT Controls Crazy? Is This Practical?
+# Section 2.4 — Implementação e Maturidade
 
-## A Crítica Inicial
+COBIT não precisa ser aplicado totalmente.
 
-Quando organizações começam a estudar COBIT, muitas vezes surgem reações como:
+Pode ser:
 
-- “Isso é burocrático demais.”
-- “É impossível implementar tudo.”
-- “Nossa empresa não tem maturidade para isso.”
-
-Essas críticas são comuns.
+- gradual  
+- adaptado  
+- priorizado  
 
 ---
 
-## A Realidade da Implementação
+## Níveis de maturidade
 
-COBIT **não precisa ser implementado integralmente**.
-
-Ele é:
-
-- Um **framework de referência**
-- Um **modelo de boas práticas**
-- Um **guia adaptável**
-
-Cada organização pode:
-
-- Adaptar controles
-- Priorizar processos
-- Implementar gradualmente
+0 — Inexistente  
+1 — Inicial  
+2 — Repetível  
+3 — Definido  
+4 — Gerenciado  
+5 — Otimizado  
 
 ---
 
-## Níveis de Maturidade
+# Section 2.5 — Sustentabilidade
 
-COBIT utiliza um modelo de maturidade semelhante ao CMMI.
+Governança eficaz exige:
 
-### Nível 0 — Inexistente  
-Processos inexistentes.
-
-### Nível 1 — Inicial  
-Processos ad-hoc.
-
-### Nível 2 — Repetível  
-Alguma padronização.
-
-### Nível 3 — Definido  
-Processos documentados.
-
-### Nível 4 — Gerenciado  
-Processos monitorados.
-
-### Nível 5 — Otimizado  
-Melhoria contínua.
+- cultura organizacional  
+- treinamento  
+- auditoria contínua  
+- monitoramento  
 
 ---
 
-## Benefícios Reais
+# Section 2.6 — Summary
 
-Quando aplicado corretamente, COBIT proporciona:
-
-- Redução de riscos
-- Melhoria na governança
-- Maior transparência
-- Melhor auditoria de TI
-- Maior confiabilidade das informações
+- SOX melhora transparência financeira  
+- LGPD protege dados pessoais  
+- COBIT estrutura governança de TI  
+- Implementação deve ser gradual  
+- Sustentabilidade depende de cultura e controle  
 
 ---
 
-# Section 2.4 — Sustainability Is the Key
+# Section 2.7 — Solutions Fast Track
 
-## Sustentabilidade Organizacional
-
-Implementar controles não é suficiente.
-
-É necessário garantir:
-
-- Continuidade
-- Evolução
-- Monitoramento constante
+1. Avaliação de maturidade  
+2. Identificação de riscos  
+3. Definição de controles  
+4. Implementação gradual  
+5. Monitoramento  
 
 ---
 
-## Sustentabilidade em Governança de TI
+# Section 2.8 — FAQ
 
-Para manter controles eficazes ao longo do tempo é necessário:
+**SOX é obrigatória?**  
+→ Apenas para empresas listadas nos EUA.
 
-- Cultura organizacional forte
-- Treinamento contínuo
-- Auditorias periódicas
-- Métricas de desempenho
+**COBIT é obrigatório?**  
+→ Não, é framework.
 
----
+**COBIT substitui outros?**  
+→ Não, complementa.
 
-## Fatores Críticos de Sucesso
-
-### 1 — Apoio da Alta Administração
-
-Sem apoio executivo, iniciativas de governança falham.
+**Maior desafio?**  
+→ Cultura e maturidade.
 
 ---
 
-### 2 — Cultura Organizacional
-
-A empresa precisa valorizar:
-
-- transparência
-- responsabilidade
-- conformidade
-
----
-
-### 3 — Processos Documentados
-
-A organização precisa de:
-
-- políticas
-- procedimentos
-- padrões
-
----
-
-### 4 — Monitoramento Contínuo
-
-Indicadores importantes:
-
-- KPIs
-- métricas de risco
-- auditorias internas
-
----
-
-# Section 2.5 — Summary
-
-Nesta aula foram apresentados conceitos fundamentais de **Governança de TI e Compliance**.
-
-Principais pontos:
-
-- A **SOX** foi criada para aumentar a transparência financeira.
-- A lei exige controles internos rigorosos.
-- A área de **TI tornou-se essencial** para garantir conformidade.
-- O **COBIT** fornece um framework estruturado para governança de TI.
-- Implementações devem ser **gradativas e adaptadas ao contexto organizacional**.
-- A sustentabilidade dos controles depende de **cultura organizacional e monitoramento contínuo**.
-
----
-
-# Section 2.6 — Solutions Fast Track
-
-## Como iniciar um programa de Governança de TI
-
-Passos recomendados:
-
-### 1 — Avaliação Inicial
-
-Realizar diagnóstico de maturidade.
-
-Ferramentas utilizadas:
-
-- COBIT maturity model
-- IT governance assessment
-
----
-
-### 2 — Identificação de Riscos
-
-Mapear riscos relacionados a:
-
-- segurança da informação
-- integridade de dados
-- processos financeiros
-
----
-
-### 3 — Definição de Controles
-
-Criar políticas para:
-
-- gestão de acessos
-- gestão de mudanças
-- backup e continuidade
-
----
-
-### 4 — Implementação Gradual
-
-Priorizar processos críticos:
-
-- sistemas financeiros
-- infraestrutura crítica
-- dados sensíveis
-
----
-
-### 5 — Monitoramento
-
-Criar indicadores como:
-
-- incidentes de segurança
-- disponibilidade de sistemas
-- tempo de resposta
-
----
-
-# Section 2.7 — Frequently Asked Questions
-
-## 1 — Toda empresa precisa seguir SOX?
-
-Não. A SOX se aplica principalmente a empresas **listadas em bolsas americanas**. Porém, muitas empresas adotam seus princípios como boas práticas.
-
----
-
-## 2 — COBIT é obrigatório?
-
-Não. COBIT é um **framework voluntário**, utilizado como referência para governança de TI.
-
----
-
-## 3 — COBIT substitui outros frameworks?
-
-Não. Ele pode **complementar outros frameworks**, como:
-
-- ITIL
-- ISO 27001
-- PMBOK
-
----
-
-## 4 — Qual a relação entre COBIT e auditoria?
-
-COBIT fornece:
-
-- controles
-- métricas
-- processos
-
-que facilitam auditorias de TI.
-
----
-
-## 5 — Qual o maior desafio na implementação?
-
-Os principais desafios são:
-
-- resistência organizacional
-- falta de maturidade em processos
-- falta de apoio executivo
-
----
-
-# Exercícios de Fixação
-
-1. Explique o contexto histórico que levou à criação da SOX.  
-2. Qual a importância da Section 404 da SOX?  
-3. Quais são os quatro domínios clássicos do COBIT?  
-4. O que significa maturidade de processos em governança de TI?  
-5. Quais fatores são essenciais para a sustentabilidade da governança de TI?
-
----
-
-# Leituras Recomendadas
-
-- ISACA — COBIT Framework
-- LAHTI, C.; PETERSON, R. *Sarbanes-Oxley, COBIT and Open Source Tools*
-- IT Governance Institute — *COBIT Framework*
+# Exercícios
+
+1. Explique a SOX  
+2. O que é LGPD  
+3. Diferença entre SOX e LGPD  
+4. Papel do COBIT  
+5. O que é maturidade de processos  
